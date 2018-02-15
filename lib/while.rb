@@ -3,7 +3,7 @@ def using_while
 	
 	#your code here
 	counter = 1
-	while counter < 10 
+	while counter <= 10 
 	  puts "#{counter}. Wingardium Leviosa"
 	  counter += 1
 	end
